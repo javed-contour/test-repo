@@ -2,4 +2,4 @@ Hello, this is Module 1.
 
 Feature 1.
 
-Feature 2.
+Feature2.
